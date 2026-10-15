@@ -1,0 +1,29 @@
+
+# Thong tin bao mat
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# File dau ra
+output/
+*.mp4
+*.mp3
+*.wav
+
+# Du lieu va lich su chay
+*.log
+history.json
+processed_news.json
+*.db
+*.sqlite3
+
+# He thong
+.vscode/
+.DS_Store
+Thumbs.db
